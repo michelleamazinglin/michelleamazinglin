@@ -4,7 +4,7 @@
 
 - 🌱 &nbsp; Exploring new technologies and developing web applications and games.
 - 🎓 &nbsp; Studying Design and Development of Digial Game at Columbia University, Teachers College.
-- 💼 &nbsp; Open to Internship Opportunities now.
+- 💼 &nbsp; Incoming Atlassian Frontend Software Intern
 - 👩🏻‍🎨&nbsp; Graduated with BFA in Fine arts, always love art with my ❤️ .
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
