@@ -3,7 +3,7 @@
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🌱 &nbsp; Exploring new technologies and developing web applications and games.
-- 🎓 &nbsp; Studying Design and Development of Digial Game at Columbia University, Teachers College.
+- 🎓 &nbsp; Graduate student at Teachers College, Columbia University pursuing Master of Arts in Design and Development of Digital Games.
 - 💼 &nbsp; Incoming Atlassian Software Engineer.
 - 👩🏻‍🎨&nbsp; Graduated with BFA in Fine arts, always love art with my ❤️ .
 
